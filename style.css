@@ -1,0 +1,55 @@
+
+
+
+
+
+.div-exemplo {
+    height: 200px;
+    width: 300px;
+    background-color: #3998db;
+}
+
+
+
+
+
+
+/* CSS */
+.imagem-exemplo {
+    height: 150px; /* Define a altura da imagem como 150 pixels */
+    width: auto; /* Largura ajustada automaticamente para manter a proporção original */
+  }
+  
+
+
+/* CSS */
+.paragrafo-exemplo {
+    max-width: 500px; /* Define a largura máxima do parágrafo como 500 pixels */
+    margin: 0 auto; /* Centraliza o parágrafo horizontalmente na página */
+  }
+
+ 
+  
+
+
+
+
+    /* CSS */
+.botao-customizado{
+    height: 40px; /* Define a altura do botão como 40 pixels */
+    width: 120px; /* Define a largura do botão como 120 pixels */
+    background-color: #27ae60; /* Define a cor de fundo */
+    color: #fff; /* Define a cor do texto como branco */
+    border: none; /* Remove a borda do botão */
+    cursor: pointer; /* Adiciona um cursor de ponteiro ao passar o mouse sobre o botão */
+  }
+  
+
+
+
+  /* CSS */
+.video-incorporado {
+    height: 315px; /* Define a altura do vídeo como 315 pixels */
+    width: 560px; /* Define a largura do vídeo como 560 pixels */
+  }
+  
